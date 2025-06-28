@@ -23,7 +23,7 @@ All the new models I made during this session(obviusly stepper and leadscrew wer
 Image of the whole printer, including past work not a part of highway
 
 
-## June 27th: Finished CAD for Triple Z (2 hours)
+## June 26th: Finished CAD for Triple Z (2 hours)
 
 In this session I finished the CAD for the triple z and quad rod design, I redesigned the joining system for the bed frame parts and designed in the rod clamps and heatsink holes and stuff like that. Then I added the final touches like adding bearings and leadscrew nuts to the design. I also reorganized the file management some to make it easier to work with.(naming stuff properly, grouping things, etc). I'm still trying to work out how exactly I want to do the bedslinger thing, if I should try to have it clamp to the bed somehow or screw into the bed frame. Maybe I'll design options for both.
 
@@ -34,3 +34,19 @@ New bed joining system - heat inserts go in inside forks, then screws clamp down
 <img src="https://github.com/destroyer796/The-199/blob/main/Journal%20Images/6-26-Fullbed.PNG"/>
 
 Probably finished design
+
+## June 27th: Started CAD for Corexy Bedslinger (4 hours)
+
+In this session I got the layout setup for the main project, the corexy bedslinger. I put all the bearings and stuff setup for my belt routing. This took quite a while because I had to change things a few times and making sure everything was perfectly lined up took a while. I also refined a couple other things that were a bit off, like making sure the bed was in the right spot and some holes that were off. I still haven't decided how big to make the bed, I'm thinking maybe a Voron zero bed, but I could make it larger.
+
+<img src="https://github.com/destroyer796/The-199/blob/main/Journal%20Images/6-27-sketch.PNG"/>
+
+Belt/bearing layout sketch
+
+<img src="https://github.com/destroyer796/The-199/blob/main/Journal%20Images/6-27-newstuff.PNG"/>
+
+New stuff, bearings, motors and rods
+
+<img src="https://github.com/destroyer796/The-199/blob/main/Journal%20Images/6-27Wholething.PNG"/>
+
+All designed parts
